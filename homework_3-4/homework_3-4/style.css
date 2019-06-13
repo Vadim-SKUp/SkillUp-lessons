@@ -1,0 +1,62 @@
+body {
+	background: #DFE0B7;
+}
+
+a:hover {
+	color: blue;
+	text-decoration: none;
+	transition: 0.7s;
+} 
+
+div {
+	font-size: 25px;
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.begin {
+	font-size: 55px;
+	font-weight: bold;
+	font-family: 'Comfortaa', cursive;
+}
+
+form {
+	font-family: 'Comfortaa', cursive;
+	text-align: center;
+}
+
+fieldset {
+	border-radius: 150px;
+	border: dotted lime 1px;
+	background: #E6E3E3;
+}
+
+input {
+	background: #DFE0B7;
+}
+
+input:focus { 
+border: solid lime;
+background: #E9E5E5;
+}
+
+h3 {
+	font-size: 35px;
+	font-weight: unset;
+}
+
+textarea {
+	width: 300px;
+	height: 150px;
+	background: #DFE0B7;
+}
+
+select {
+	background: #DFE0B7;
+}
+
+button:hover {
+	border-radius: 20px;
+	background: #C2B96C;
+	transition: 0.7s;
+}
